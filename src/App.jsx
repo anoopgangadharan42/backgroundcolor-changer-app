@@ -19,7 +19,7 @@ function App() {
         <button onClick={()=>handleFunction('bg-danger')}type='button' className='btn btn-danger'>red</button>
         <button onClick={()=>handleFunction('bg-warning')}type='button' className='btn btn-warning'>yellow</button>
         <button onClick={()=>handleFunction('bg-primary')}type='button' className='btn btn-primary'>blue</button>
-        <button onClick={()=>handleFunction('bg-text-success')}type='button' className='btn btn-success'>green</button>
+        <button onClick={()=>handleFunction('bg-success')}type='button' className='btn btn-success'>green</button>
       </div>
     </div>
     </div>
